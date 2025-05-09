@@ -19,3 +19,6 @@ git clone https://github.com/your-username/expense-tracker.git
 cd expense-tracker
 npm install
 npm start
+
+
+https://github.com/amulyakaleru07/Expense-Tracker/blob/main/Screenshot%202025-05-09%20111539.png?raw=true
