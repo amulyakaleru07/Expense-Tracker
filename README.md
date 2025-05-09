@@ -13,6 +13,7 @@ A simple and functional expense tracker built using **React JS**. It helps you m
 - Local Storage API
 
 ## 📂 Folder Structure
+
 - expense-tracker/
 ├── public/
 │ └── index.html
