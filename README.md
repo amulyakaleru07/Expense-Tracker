@@ -12,6 +12,10 @@ A simple and functional expense tracker built using **React JS**. It helps you m
 - JavaScript (ES6+), HTML, CSS
 - Local Storage API
 
+## Screenshots
+
+https://github.com/amulyakaleru07/Expense-Tracker/blob/main/Screenshot%202025-05-09%20111539.png?raw=true
+
 ## 🛠️ Getting Started
 
 ```bash
@@ -20,5 +24,3 @@ cd expense-tracker
 npm install
 npm start
 
-
-https://github.com/amulyakaleru07/Expense-Tracker/blob/main/Screenshot%202025-05-09%20111539.png?raw=true
