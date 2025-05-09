@@ -12,6 +12,24 @@ A simple and functional expense tracker built using **React JS**. It helps you m
 - JavaScript (ES6+), HTML, CSS
 - Local Storage API
 
+## 📂 Folder Structure
+- expense-tracker/
+├── public/
+│ └── index.html
+├── src/
+│ ├── components/
+│ │ ├── Header.js
+│ │ ├── Balance.js
+│ │ ├── IncomeExpenses.js
+│ │ ├── TransactionList.js
+│ │ ├── Transaction.js
+│ │ ├── AddTransaction.js
+│ ├── App.js
+│ ├── style.css
+│ └── index.js
+├── package.json
+└── README.md
+
 ## Screenshots
 
 https://github.com/amulyakaleru07/Expense-Tracker/blob/a846a6894289598ea3856efd2d13355ea979e902/Screenshot%202025-05-09%20111539.png
