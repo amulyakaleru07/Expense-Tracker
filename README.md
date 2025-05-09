@@ -1,12 +1,21 @@
-## Expense Tracker
+# 💸 Expense Tracker (React)
 
-Keep track of income and expenses. Add and remove items and save to local storage
+A simple and functional expense tracker built using **React JS**. It helps you manage your income and expenses, showing real-time balance and persisting data in the browser using **Local Storage**.
 
-## Project Specifications
+## 🚀 Features
+- Add & delete income/expense transactions
+- Automatically update balance, income, and expense totals
+- Store data in local storage (persists after page reload)
 
-- Create UI for project
-- Display transaction items in DOM
-- Show balance, expense and income totals
-- Add new transation and reflect in total
-- Delete items from DOM
-- Persist to local storage
+## 🧠 Tech Stack
+- React JS (Functional Components & Hooks)
+- JavaScript (ES6+), HTML, CSS
+- Local Storage API
+
+## 🛠️ Getting Started
+
+```bash
+git clone https://github.com/your-username/expense-tracker.git
+cd expense-tracker
+npm install
+npm start
