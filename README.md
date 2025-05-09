@@ -14,7 +14,7 @@ A simple and functional expense tracker built using **React JS**. It helps you m
 
 ## Screenshots
 
-https://github.com/amulyakaleru07/Expense-Tracker/blob/main/Screenshot%202025-05-09%20111539.png?raw=true
+https://github.com/amulyakaleru07/Expense-Tracker/blob/a846a6894289598ea3856efd2d13355ea979e902/Screenshot%202025-05-09%20111539.png
 
 ## 🛠️ Getting Started
 
